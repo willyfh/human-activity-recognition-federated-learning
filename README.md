@@ -1,3 +1,5 @@
 # human-activity-recognition-federated-learning
 
-Google Colab: https://colab.research.google.com/drive/1aIM91aKwabE-qvy_6zB_zZsWarVlCscU?authuser=1#scrollTo=rS9Yb6GjPH_Q
+Please see the detailed explanation in the provided notebooks (.ipynb or PDF), or you can also check the details in Google Colab.
+
+Google Colab: https://colab.research.google.com/drive/1aIM91aKwabE-qvy_6zB_zZsWarVlCscU?usp=sharing
